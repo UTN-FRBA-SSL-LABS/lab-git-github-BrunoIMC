@@ -1,7 +1,7 @@
 #include "operaciones.h"
 
 /* ── sumar — ya implementada, referencia de estilo ───────────────────────── */
-
+// Retorna la suma de los parametros a y b
 int sumar(const int a, const int b) {
     return a + b;
 }
