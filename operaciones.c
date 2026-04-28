@@ -3,6 +3,7 @@
 /* ── sumar — ya implementada, referencia de estilo ───────────────────────── */
 // Retorna la suma de los parametros a y b.
 int sumar(const int a, const int b) {
+
     return a + b;
 }
 
@@ -21,5 +22,5 @@ int multiplicar(int a, int b) {
 /* ── esPar ────────────────────────────────────────────────────────────────── */
 
 int esPar(int n) {
-    return (n % 2) == 0; /* version main */
+    return (n % 2) == 0;
 }
